@@ -10,7 +10,7 @@ Are you ready to revolutionize the way you create and view images? Meet **Creati
 
 1. **Easy Dependency Management**: With a single click, install all necessary dependencies like `diffusers`, `torch`, and `Pillow`. No more hassle with manual installations!
 
-2. **Model Loading Made Simple**: Load your preferred AI models effortlessly. Just enter the model ID and download path, and let Creative Prompt AI handle the rest. It even supports LoRA weights for enhanced image generation.
+2. **Model Loading Made Simple**: Load your preferred AI models effortlessly from **HuggingFace**. Just enter the model ID and download path, and let Creative Prompt AI handle the rest. It even supports LoRA weights for enhanced image generation.
 
 3. **Customizable Prompts**: Generate stunning images by simply entering your desired prompt. Whether it's "pixel, a cute corgi" or any other creative idea, watch your vision come to life.
 
