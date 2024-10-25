@@ -4,7 +4,7 @@
 
 # CreativePromptAI
 
-A graphical user interface (GUI) to use large language model (LLM) to generate images.
+A graphical user interface (GUI) to use **text-to-image** large language model (LLM) to generate images.
 
 **Introducing Creative Prompt AI: Your Ultimate AI-Powered Image Generation and Viewing Tool!**
 
@@ -32,13 +32,18 @@ Are you ready to revolutionize the way you create and view images? Meet **Creati
   <img src="https://github.com/irtiq7/CreativePromptAI/blob/main/images/01.png" alt="Creative_Prompt_AI_01" height="600" width="800">
 </p>
 
+<p align="center">
+  <img src="https://github.com/irtiq7/CreativePromptAI/blob/main/images/03.png" alt="Creative_Prompt_AI_02" height="600" width="800">
+</p>
+
 1. **Install Dependencies**: Click the "Install Dependencies" button to set up your environment.
-2. **Load Model**: Enter the model ID and download path, then click "Load Model" to initialize your AI model. (Note: If you change the model ID or LoRA weights then load the model again).
-3. **Generate Images**: Input your prompt and click "Generate Images" to create a batch of stunning visuals.
-4. **View and Save**: Use the interactive viewer to zoom in/out and save your favorite images.
+2. **Copy Model**: Copy model link from **Hugging Face**
+3. **Load Model**: Enter the model ID and download path, then click "Load Model" to initialize your AI model. (Note: If you change the model ID or LoRA weights then load the model again).
+4. **Generate Images**: Input your prompt and click "Generate Images" to create a batch of stunning visuals.
+5. **View and Save**: Use the interactive viewer to zoom in/out and save your favorite images.
 
 <p align="center">
-  <img src="https://github.com/irtiq7/CreativePromptAI/blob/main/images/02.png" alt="Creative_Prompt_AI_02" height="400" width="800">
+  <img src="https://github.com/irtiq7/CreativePromptAI/blob/main/images/02.png" alt="Creative_Prompt_AI_03" height="400" width="800">
 </p>
 
 #### 🌟 Why Choose Creative Prompt AI?
@@ -47,6 +52,13 @@ Are you ready to revolutionize the way you create and view images? Meet **Creati
 - **High-Quality Outputs**: Leverage state-of-the-art AI models to produce high-resolution, visually appealing images.
 - **Versatile Applications**: Ideal for artists, designers, and anyone looking to explore the creative possibilities of AI.
 - **Community-Driven**: As an open-source project, you can contribute, customize, and enhance the tool to suit your specific needs.
+
+#### 🚀 Future Development Idea:
+
+- Add support to include **Image-to-Image** model
+- Add support to use **LLM** model for text generation
+- Add multi-agent support
+- much more!
 
 Be part of the AI image generation revolution. With Creative Prompt AI, your creativity knows no bounds!
 
