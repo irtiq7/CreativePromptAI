@@ -28,10 +28,18 @@ Are you ready to revolutionize the way you create and view images? Meet **Creati
 
 #### 🎨 How It Works:
 
+<p align="center">
+  <img src="https://github.com/irtiq7/CreativePromptAI/blob/main/images/01.png" alt="Creative_Prompt_AI_01" height="600" width="800">
+</p>
+
 1. **Install Dependencies**: Click the "Install Dependencies" button to set up your environment.
-2. **Load Model**: Enter the model ID and download path, then click "Load Model" to initialize your AI model.
+2. **Load Model**: Enter the model ID and download path, then click "Load Model" to initialize your AI model. (Note: If you change the model ID or LoRA weights then load the model again).
 3. **Generate Images**: Input your prompt and click "Generate Images" to create a batch of stunning visuals.
 4. **View and Save**: Use the interactive viewer to zoom in/out and save your favorite images.
+
+<p align="center">
+  <img src="https://github.com/irtiq7/CreativePromptAI/blob/main/images/02.png" alt="Creative_Prompt_AI_02" height="400" width="800">
+</p>
 
 #### 🌟 Why Choose Creative Prompt AI?
 
@@ -40,6 +48,6 @@ Are you ready to revolutionize the way you create and view images? Meet **Creati
 - **Versatile Applications**: Ideal for artists, designers, and anyone looking to explore the creative possibilities of AI.
 - **Community-Driven**: As an open-source project, you can contribute, customize, and enhance the tool to suit your specific needs.
 
-Join us on Product Hunt and be part of the AI image generation revolution. With Creative Prompt AI, your creativity knows no bounds!
+Be part of the AI image generation revolution. With Creative Prompt AI, your creativity knows no bounds!
 
 **Get Started Today!**
