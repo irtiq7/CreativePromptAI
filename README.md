@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/irtiq7/LOCC_Mapper/blob/main/image/logo.png" alt="LOCC_MAPPER" height="500" width="500">
+</p>
+
 # CreativePromptAI
 
 A graphical user interface (GUI) to use large language model (LLM) to generate images.
