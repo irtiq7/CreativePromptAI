@@ -6,7 +6,7 @@
 
 # CreativePromptAI
 
-A graphical user interface (GUI) to use **text-to-image** large language model (LLM) to generate images.
+A graphical user interface (GUI) to use open-source **text-to-image** large language model (LLM) from **HuggingFace** to generate images.
 
 **Introducing Creative Prompt AI: Your Ultimate AI-Powered Image Generation and Viewing Tool!**
 
