@@ -28,6 +28,8 @@ Are you ready to revolutionize the way you create and view images? Meet **Creati
 
 #### 🎨 How It Works:
 
+**Requirement: Nvidia CUDA Graphic Cards is a must!
+
 <p align="center">
   <img src="https://github.com/irtiq7/CreativePromptAI/blob/main/images/01.png" alt="Creative_Prompt_AI_01" height="600" width="800">
 </p>
