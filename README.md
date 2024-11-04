@@ -2,6 +2,8 @@
   <img src="https://github.com/irtiq7/CreativePromptAI/blob/main/images/logo.png" alt="Creative_Prompt_AI" height="300" width="300">
 </p>
 
+<a href="https://simplelister.com/product/creative-prompt-ai-" target="_blank" rel="noopener">   <img src="https://simplelister.com/launched-badge" alt="SimpleLister Launched Badge" style="width:250px; height:auto;"> </a>
+
 <a href="https://www.producthunt.com/posts/creative-prompt-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-creative&#0045;prompt&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=540517&theme=light" alt="Creative&#0032;Prompt&#0032;AI - An&#0032;AI&#0032;software&#0032;to&#0032;use&#0032;open&#0045;source&#0032;LLM&#0032;to&#0032;generate&#0032;images&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="100" height="54" /></a>
 
 # CreativePromptAI
